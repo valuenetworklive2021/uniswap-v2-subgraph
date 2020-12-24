@@ -1,11 +1,7 @@
 {
   "name": "valueswap-v2-subgraph",
   "version": "1.0.0",
-  "author": {
-    "name": "Value Network",
-    "email": "email@site.name",
-    "url": "https://github.com/valuenetworklive2021"
-  },
+  "author": "Value Network",
   "license": "GPL-3.0-or-later",
   "repository": {
     "type": "git",
@@ -29,5 +25,10 @@
     "eslint-config-prettier": "^6.1.0",
     "prettier": "^1.18.2",
     "typescript": "^3.5.2"
-  }
+  },
+  "keywords": [
+    "ethereum",
+    "valueswap",
+    "subgraph"
+  ]
 }
