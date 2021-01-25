@@ -1,6 +1,6 @@
 # Valueswap V2 Subgraph
 
-[Valueswap](https://valuenetworklive2021.github.io/valueswap-protocol/) is a decentralized protocol for automated token exchange on Ethereum.
+[Valueswap](https://valueswap.valuenetwork.live/) is a decentralized protocol for automated token exchange on Ethereum.
 
 This subgraph dynamically tracks any pair created by the valueswap factory. It tracks of the current state of Valueswap contracts, and contains derived stats for things like historical data and USD prices.
 
